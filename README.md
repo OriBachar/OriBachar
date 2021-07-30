@@ -4,12 +4,12 @@
 <br />
 
 
-<h2> 💻 &nbsp;About Me  
+<h2> 💻 &nbsp;About Me  </h2>
 - 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow 
 
   
 <hr />
-<h2> 🛠 &nbsp;Tech Stack </h2>
+<h2> 🛠 &nbsp;Tech Stack 
 
 - 🧰 &nbsp; 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
