@@ -8,7 +8,7 @@
 
   
 <hr />
-<h3> 🛠 &nbsp;Tech Stack 
+<h4> 🛠 &nbsp;Tech Stack 
 
 - 🧰 &nbsp; 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
