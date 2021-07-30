@@ -1,6 +1,6 @@
 ### Hi! 👋, I'm [Ori Bachar](https://github.com/OriBachar) 👨‍💻
 
-<img alt="GIF" height="130px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 <br />
 
 
