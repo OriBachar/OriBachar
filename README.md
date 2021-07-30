@@ -54,13 +54,8 @@
   ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
   
   
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=OriBachar&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs,prs)
 
-  
-<p>
-  <div class="github-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=OriBachar&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs,prs" />
-  </div>
-</p>
 
 ### 📝 Contact Me 
 [<img align="left" alt="OriBachar | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
