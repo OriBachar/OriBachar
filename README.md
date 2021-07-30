@@ -1,6 +1,6 @@
 ### Hi! 👋, I'm [Ori Bachar](https://github.com/OriBachar) 👨‍💻
 
-<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img alt="GIF" height="130px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 <br />
 
 
@@ -9,7 +9,7 @@
 
   
 <hr />
-<h2> 🛠 &nbsp;Tech Stack
+<h2> 🛠 &nbsp;Tech Stack </h2>
 
 - 🧰 &nbsp; 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
