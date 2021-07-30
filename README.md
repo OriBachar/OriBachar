@@ -1,7 +1,12 @@
 ### Hi! 👋, I'm [Ori Bachar](https://github.com/OriBachar) 👨‍💻
 
+<img alt="GIF" height="130px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<br />
+
+
 <h3> 💻 &nbsp;About Me </h3> 
-- 💪 I'm a self-taught, continuously searching for greater challenges.
+- 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow 
+
   
 <hr />
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -25,7 +30,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Monday](https://svgshare.com/i/ZeZ.svg?style=for-the-badge&logo=github&logoColor=white)
+  
   
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -39,6 +44,9 @@
   
 - 🎓 &nbsp;
   ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+  
+-🎮
+  ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
   
 
   
