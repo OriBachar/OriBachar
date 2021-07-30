@@ -52,10 +52,10 @@
 - 🎮 &nbsp; 
   ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
   
-  
+ <hr /> 
 ![Ori's github stats](https://github-readme-stats.vercel.app/api?username=OriBachar&theme=vision-friendly-dark&hide=prs,issues,stars)
   
-
+<hr />
 ### 📝 Contact Me 
 [<img align="left" alt="OriBachar | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
 [<img align="left" alt="OriBachar | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
@@ -64,4 +64,4 @@
 [linkedin]: https://www.linkedin.com/in/ori-bachar/
 [gmail]: mailto:oribachar98@gmail.com
 
-
+<hr />
