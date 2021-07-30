@@ -4,7 +4,7 @@
 <br />
 
 
-<h3> 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow<br /> 
+<h3> 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow&nbsp;
      👨‍🎓  I'm a Computer Science student (3rd year)
 </h3>
 
