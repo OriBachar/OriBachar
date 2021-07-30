@@ -5,7 +5,7 @@
 
 
 <h3> 💻 &nbsp;About Me  </h3>
-<h4>- 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow </h4>
+<h4> 💪 I'm a hard-worker, fast-learner, team player and highly motivated to learn, advance, develop and grow </h4>
 
   
 <hr />
