@@ -54,11 +54,7 @@
  
 
 ### 📝 Contact Me 
-[<img align="left" alt="OriBachar | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="OriBachar | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-
-
-[linkedin]: https://www.linkedin.com/in/ori-bachar/
-[gmail]: mailto:oribachar98@gmail.com
-
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ori-bachar/)
+  &nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oribachar98@gmail.com)
 
