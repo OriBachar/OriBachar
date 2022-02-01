@@ -53,8 +53,9 @@
   
 
 ![Ori's github stats](https://github-readme-stats.vercel.app/api?username=OriBachar&theme=vision-friendly-dark&hide=prs,issues,stars)
+     
+!Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=OriBachar&theme=vision-friendly-dark)   
  
-
 ### 📝 Contact Me 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ori-bachar/)
   &nbsp;
