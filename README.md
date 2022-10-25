@@ -50,11 +50,7 @@
   
 - 🎮 &nbsp; 
   ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
-  
 
-![Ori's github stats](https://github-readme-stats.vercel.app/api?username=OriBachar&theme=vision-friendly-dark&hide=prs,issues)
-   
- 
 ### 📝 Contact Me 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ori-bachar/)
   &nbsp;
