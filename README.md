@@ -4,8 +4,6 @@
      💪 Blockchain Developer and Computer Science Graduate with a Passion for Gaming and Blockchain Technology.
 </h3>
 
-
-  
 <br />
 <h3> 🛠 &nbsp;Tech Stack 
 
