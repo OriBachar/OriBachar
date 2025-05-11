@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Ori Bachar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ori-bachar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oribachar98@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oribachar98@gmail.com)
+
 
 ## 💪 About Me
 
@@ -51,4 +52,4 @@ Backend Developer with expertise in Node.js (TypeScript & JavaScript), AWS & GCP
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations and opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ori-bachar/) or [Email](oribachar98@gmail.com).
+I'm always open to interesting conversations and opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ori-bachar/) or [Email](mailto:oribachar98@gmail.com).
