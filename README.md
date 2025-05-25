@@ -6,7 +6,7 @@
 
 ## 💪 About Me
 
-Backend Developer with expertise in Node.js (TypeScript & JavaScript), AWS & GCP, Docker and MongoDB, passionate about building scalable and intelligent platforms.
+Backend Developer with experience in Node.js, AWS, GCP, MongoDB, and Docker, with expertise in building AI-driven video interview platforms – reducing recruitment time and costs while ensuring accurate screening of tech candidates.
 
 ## 🛠️ Tech Stack
 
